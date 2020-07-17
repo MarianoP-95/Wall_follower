@@ -2,9 +2,13 @@
 
 In this project an ackermann steering robot had used the navigation stack for the calculation and implementation of estimated trajectories, within a map proposed to reach the goal points. All made on Rviz and Ros Stage.
 
-   Download in Catkin_ws/src from this link  :
+   Download in Catkin_ws/src from this link in  :
+   
+   cd catkin_ws/src   
    git clone git@github.com:MarianoP-95/Wall_follower.git  
- 
+   cd .. 
+   catkin_make
+   
    Install Stage-Ros
 
    $   sudo apt-get install ros-melodic-stage-ros`
