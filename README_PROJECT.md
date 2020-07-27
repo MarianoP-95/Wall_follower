@@ -3,7 +3,8 @@
 In this project an ackermann steering robot had used the navigation stack for the calculation and implementation of estimated trajectories, within a map proposed to reach the goal points. All made on Rviz and Ros Stage.
 
    Download in Catkin_ws/src from this link  :
-   https://github.com/MarianoP-95/Wall_follower.git
+   
+  git clone https://github.com/MarianoP-95/Wall_follower.git
  
    Install:
 
